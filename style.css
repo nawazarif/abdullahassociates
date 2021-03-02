@@ -1,0 +1,16 @@
+.custammain{
+    display: flex;
+    justify-content: space-around;
+    }
+    .custambtn{
+        background-color: #003e44;
+        color: white;
+        width: 150px;
+        height: 40px;
+        border-radius: 10px;
+    }
+    .custambtn:hover{
+        background-color: #012f33;
+    }
+    
+    
